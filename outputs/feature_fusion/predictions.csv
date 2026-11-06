@@ -1,0 +1,393 @@
+Experiment,VideoID,Label,Actual,Prediction,Score,Correct
+Eigenvalues only,0,fake,1,1,1.0225379646132708,True
+Eigenvalues only,1,fake,1,1,0.45633259485624633,True
+Eigenvalues only,2,fake,1,1,0.5214789462863123,True
+Eigenvalues only,3,fake,1,1,0.47055740490547704,True
+Eigenvalues only,4,fake,1,1,0.5565618890256768,True
+Eigenvalues only,5,fake,1,0,-0.7351263426861055,False
+Eigenvalues only,6,fake,1,0,-0.43632663969616675,False
+Eigenvalues only,7,fake,1,1,0.35964420984209655,True
+Eigenvalues only,8,fake,1,1,0.8322814840182792,True
+Eigenvalues only,9,fake,1,1,1.538804611252779,True
+Eigenvalues only,10,fake,1,1,1.139356622860498,True
+Eigenvalues only,11,fake,1,1,0.817937415751704,True
+Eigenvalues only,12,fake,1,1,0.4272583172995347,True
+Eigenvalues only,13,fake,1,1,1.3365900392261767,True
+Eigenvalues only,14,fake,1,1,0.33540360820416537,True
+Eigenvalues only,15,fake,1,1,1.154508867729094,True
+Eigenvalues only,16,fake,1,1,1.263039881353479,True
+Eigenvalues only,17,fake,1,1,0.371085315656286,True
+Eigenvalues only,18,fake,1,1,0.6274933597588522,True
+Eigenvalues only,19,fake,1,1,0.22991660009420362,True
+Eigenvalues only,20,fake,1,1,0.6650965444795737,True
+Eigenvalues only,21,fake,1,1,1.3187057853952315,True
+Eigenvalues only,22,fake,1,1,1.0100989725876959,True
+Eigenvalues only,23,fake,1,1,0.24987054437217027,True
+Eigenvalues only,24,fake,1,1,0.8775189706568554,True
+Eigenvalues only,25,fake,1,1,1.1196239733299906,True
+Eigenvalues only,26,fake,1,1,0.8568876174005206,True
+Eigenvalues only,27,fake,1,1,0.3655862977854808,True
+Eigenvalues only,28,fake,1,1,0.5173299735206836,True
+Eigenvalues only,29,fake,1,1,0.5936574150354804,True
+Eigenvalues only,30,fake,1,1,0.45820321645585926,True
+Eigenvalues only,31,fake,1,0,-0.09405171263232376,False
+Eigenvalues only,32,fake,1,0,-0.1504041948994937,False
+Eigenvalues only,33,fake,1,0,-0.5496596974408768,False
+Eigenvalues only,34,fake,1,0,-0.6026021524752347,False
+Eigenvalues only,35,fake,1,0,-0.15773282412007505,False
+Eigenvalues only,36,fake,1,0,-0.5086580509971073,False
+Eigenvalues only,37,fake,1,1,0.45781767079149527,True
+Eigenvalues only,38,fake,1,1,0.6011094871549989,True
+Eigenvalues only,39,fake,1,1,0.09714987701506561,True
+Eigenvalues only,40,fake,1,1,0.37789289978118834,True
+Eigenvalues only,41,fake,1,1,0.2133031744405134,True
+Eigenvalues only,42,fake,1,1,0.9281391119026452,True
+Eigenvalues only,43,fake,1,0,-0.9945734849276838,False
+Eigenvalues only,44,fake,1,1,0.27711867942652013,True
+Eigenvalues only,45,fake,1,1,0.5012877411541062,True
+Eigenvalues only,46,fake,1,0,-0.4548765082086732,False
+Eigenvalues only,47,fake,1,1,0.9025274152825769,True
+Eigenvalues only,48,fake,1,1,1.0055394528773154,True
+Eigenvalues only,0,real,0,0,-0.6676247901884778,True
+Eigenvalues only,1,real,0,0,-0.15975687211866857,True
+Eigenvalues only,2,real,0,0,-1.2780982839394714,True
+Eigenvalues only,3,real,0,0,-0.342484877860488,True
+Eigenvalues only,4,real,0,0,-0.9849451456925042,True
+Eigenvalues only,5,real,0,0,-0.6512819111191861,True
+Eigenvalues only,6,real,0,0,-0.8065988813728264,True
+Eigenvalues only,7,real,0,0,-0.1487090883021898,True
+Eigenvalues only,8,real,0,1,0.15613603150430289,False
+Eigenvalues only,9,real,0,1,0.7169315547156735,False
+Eigenvalues only,10,real,0,1,0.3404608943553471,False
+Eigenvalues only,11,real,0,0,-1.4220253257151199,True
+Eigenvalues only,12,real,0,0,-1.0017946795802235,True
+Eigenvalues only,13,real,0,1,0.043792872158522234,False
+Eigenvalues only,14,real,0,1,0.17927746864668737,False
+Eigenvalues only,15,real,0,1,0.5985668326180542,False
+Eigenvalues only,16,real,0,1,0.341514445917779,False
+Eigenvalues only,17,real,0,0,-0.06735641749027943,True
+Eigenvalues only,18,real,0,0,-0.6417858312043723,True
+Eigenvalues only,19,real,0,1,0.19709857568927835,False
+Eigenvalues only,20,real,0,1,0.6940731387869771,False
+Eigenvalues only,21,real,0,0,-1.0850569178367113,True
+Eigenvalues only,22,real,0,0,-1.0750089141616805,True
+Eigenvalues only,23,real,0,0,-0.4204002222818277,True
+Eigenvalues only,24,real,0,0,-0.2685334400237655,True
+Eigenvalues only,25,real,0,0,-0.09151127095697853,True
+Eigenvalues only,26,real,0,1,0.08531141123952724,False
+Eigenvalues only,27,real,0,0,-0.7531021323249795,True
+Eigenvalues only,28,real,0,1,0.16330831198858137,False
+Eigenvalues only,29,real,0,0,-0.7058392538747693,True
+Eigenvalues only,30,real,0,1,0.498257219824637,False
+Eigenvalues only,31,real,0,0,-1.4172220597041918,True
+Eigenvalues only,32,real,0,0,-0.3108445397676434,True
+Eigenvalues only,33,real,0,0,-0.7295883504859979,True
+Eigenvalues only,34,real,0,1,0.2207631212966713,False
+Eigenvalues only,35,real,0,0,-0.6720713529601776,True
+Eigenvalues only,36,real,0,0,-0.7123335879392041,True
+Eigenvalues only,37,real,0,1,0.18473050182661271,False
+Eigenvalues only,38,real,0,0,-1.1353913855132503,True
+Eigenvalues only,39,real,0,0,-1.1070420414867603,True
+Eigenvalues only,40,real,0,0,-0.9425820002976395,True
+Eigenvalues only,41,real,0,0,-0.13777415356188272,True
+Eigenvalues only,42,real,0,0,-0.9619345264492029,True
+Eigenvalues only,43,real,0,0,-0.7852428141552938,True
+Eigenvalues only,44,real,0,0,-0.6458571667127379,True
+Eigenvalues only,45,real,0,0,-0.923231427581397,True
+Eigenvalues only,46,real,0,0,-0.5323295013527438,True
+Eigenvalues only,47,real,0,0,-1.085619953780777,True
+Eigenvalues only,48,real,0,0,-0.47786563352505296,True
+Eigen-Jitter only,0,fake,1,1,1.0630669490267701,True
+Eigen-Jitter only,1,fake,1,1,1.6127434115279022,True
+Eigen-Jitter only,2,fake,1,1,0.9591931790596463,True
+Eigen-Jitter only,3,fake,1,0,-0.12626632356998105,False
+Eigen-Jitter only,4,fake,1,1,0.043979613614892055,True
+Eigen-Jitter only,5,fake,1,0,-0.30353194231966507,False
+Eigen-Jitter only,6,fake,1,1,0.4174293652848188,True
+Eigen-Jitter only,7,fake,1,0,-0.19081294816371613,False
+Eigen-Jitter only,8,fake,1,1,0.5981439504236846,True
+Eigen-Jitter only,9,fake,1,1,0.641325381528787,True
+Eigen-Jitter only,10,fake,1,1,1.7279785209646117,True
+Eigen-Jitter only,11,fake,1,1,0.6075813225778424,True
+Eigen-Jitter only,12,fake,1,0,-0.260709942163581,False
+Eigen-Jitter only,13,fake,1,1,0.10184260701088549,True
+Eigen-Jitter only,14,fake,1,1,1.4247402758852556,True
+Eigen-Jitter only,15,fake,1,1,1.5559844256984299,True
+Eigen-Jitter only,16,fake,1,1,0.6977306787141128,True
+Eigen-Jitter only,17,fake,1,1,0.6910820345339741,True
+Eigen-Jitter only,18,fake,1,1,0.9855636042601382,True
+Eigen-Jitter only,19,fake,1,1,0.6188357416089775,True
+Eigen-Jitter only,20,fake,1,1,0.3745395205403663,True
+Eigen-Jitter only,21,fake,1,1,0.2849538575583929,True
+Eigen-Jitter only,22,fake,1,1,0.7404112369860433,True
+Eigen-Jitter only,23,fake,1,1,0.009675990690273764,True
+Eigen-Jitter only,24,fake,1,1,0.8736330710107229,True
+Eigen-Jitter only,25,fake,1,1,0.6430975142728044,True
+Eigen-Jitter only,26,fake,1,1,1.1078253873099755,True
+Eigen-Jitter only,27,fake,1,1,0.27732894361176175,True
+Eigen-Jitter only,28,fake,1,1,0.49559364444966986,True
+Eigen-Jitter only,29,fake,1,1,0.8215029906042549,True
+Eigen-Jitter only,30,fake,1,1,0.8902212784777139,True
+Eigen-Jitter only,31,fake,1,0,-1.2651030834571217,False
+Eigen-Jitter only,32,fake,1,1,0.4432810316983751,True
+Eigen-Jitter only,33,fake,1,1,0.3859830806946859,True
+Eigen-Jitter only,34,fake,1,0,-0.416207920554186,False
+Eigen-Jitter only,35,fake,1,1,0.18703640756850576,True
+Eigen-Jitter only,36,fake,1,0,-0.34250841846392066,False
+Eigen-Jitter only,37,fake,1,1,1.066276811998763,True
+Eigen-Jitter only,38,fake,1,1,0.2802637994376973,True
+Eigen-Jitter only,39,fake,1,1,0.14108132579604027,True
+Eigen-Jitter only,40,fake,1,1,0.06283102035182808,True
+Eigen-Jitter only,41,fake,1,0,-0.003755880068849457,False
+Eigen-Jitter only,42,fake,1,1,0.25044515947556734,True
+Eigen-Jitter only,43,fake,1,0,-0.12865607875778398,False
+Eigen-Jitter only,44,fake,1,1,1.2513227418133963,True
+Eigen-Jitter only,45,fake,1,1,1.241181839150471,True
+Eigen-Jitter only,46,fake,1,0,-0.30012907960506857,False
+Eigen-Jitter only,47,fake,1,0,-1.084405202641423,False
+Eigen-Jitter only,48,fake,1,1,0.5704164766976287,True
+Eigen-Jitter only,0,real,0,0,-0.3331890776600626,True
+Eigen-Jitter only,1,real,0,0,-0.7797905016464095,True
+Eigen-Jitter only,2,real,0,0,-1.9750268786604965,True
+Eigen-Jitter only,3,real,0,0,-0.6481318049099323,True
+Eigen-Jitter only,4,real,0,0,-0.2704364159768003,True
+Eigen-Jitter only,5,real,0,0,-0.4589688132060452,True
+Eigen-Jitter only,6,real,0,0,-0.2576040329822454,True
+Eigen-Jitter only,7,real,0,0,-0.6753787940457683,True
+Eigen-Jitter only,8,real,0,1,0.1605310558143812,False
+Eigen-Jitter only,9,real,0,1,0.6541545340737082,False
+Eigen-Jitter only,10,real,0,1,1.7216446940193855,False
+Eigen-Jitter only,11,real,0,0,-0.6392095873941652,True
+Eigen-Jitter only,12,real,0,0,-0.5303077021114491,True
+Eigen-Jitter only,13,real,0,0,-0.33995016032718484,True
+Eigen-Jitter only,14,real,0,1,0.1447593134286727,False
+Eigen-Jitter only,15,real,0,1,0.3629226365522005,False
+Eigen-Jitter only,16,real,0,1,0.21394281185181574,False
+Eigen-Jitter only,17,real,0,0,-0.0892156378221424,True
+Eigen-Jitter only,18,real,0,1,0.100925885725766,False
+Eigen-Jitter only,19,real,0,0,-0.14516593231702107,True
+Eigen-Jitter only,20,real,0,1,0.36233807848768007,False
+Eigen-Jitter only,21,real,0,0,-0.34175311246341544,True
+Eigen-Jitter only,22,real,0,0,-1.1613027833549974,True
+Eigen-Jitter only,23,real,0,0,-0.9412869743281949,True
+Eigen-Jitter only,24,real,0,0,-1.331015793617781,True
+Eigen-Jitter only,25,real,0,0,-0.013995999564718475,True
+Eigen-Jitter only,26,real,0,0,-0.560971617102833,True
+Eigen-Jitter only,27,real,0,0,-0.7510612126846004,True
+Eigen-Jitter only,28,real,0,1,1.0845998118011506,False
+Eigen-Jitter only,29,real,0,0,-0.3765636806824384,True
+Eigen-Jitter only,30,real,0,1,0.6958657593126507,False
+Eigen-Jitter only,31,real,0,0,-0.4000309767701198,True
+Eigen-Jitter only,32,real,0,0,-0.6099973492822383,True
+Eigen-Jitter only,33,real,0,0,-0.10457630226783607,True
+Eigen-Jitter only,34,real,0,0,-0.009456329248960338,True
+Eigen-Jitter only,35,real,0,0,-0.28378483714394187,True
+Eigen-Jitter only,36,real,0,0,-0.6530357012780307,True
+Eigen-Jitter only,37,real,0,1,1.5377695750654363,False
+Eigen-Jitter only,38,real,0,0,-0.4816159796931556,True
+Eigen-Jitter only,39,real,0,0,-0.15723449607246795,True
+Eigen-Jitter only,40,real,0,0,-0.8908978707553696,True
+Eigen-Jitter only,41,real,0,0,-0.6737832883190294,True
+Eigen-Jitter only,42,real,0,0,-0.8921630803980156,True
+Eigen-Jitter only,43,real,0,1,0.10236227295557782,False
+Eigen-Jitter only,44,real,0,0,-0.1504396023758493,True
+Eigen-Jitter only,45,real,0,0,-0.20936158476196287,True
+Eigen-Jitter only,46,real,0,0,-1.38332185461361,True
+Eigen-Jitter only,47,real,0,0,-0.8560656662759742,True
+Eigen-Jitter only,48,real,0,1,0.3024848492862562,False
+All combined features,0,fake,1,1,1.7265792539177949,True
+All combined features,1,fake,1,1,1.1358284033139692,True
+All combined features,2,fake,1,1,0.8271175976645065,True
+All combined features,3,fake,1,0,-0.05567201422735507,False
+All combined features,4,fake,1,1,0.11021511247031124,True
+All combined features,5,fake,1,0,-0.4830915046407929,False
+All combined features,6,fake,1,0,-0.96903234574206,False
+All combined features,7,fake,1,1,0.4011687747840443,True
+All combined features,8,fake,1,1,1.21072686868831,True
+All combined features,9,fake,1,1,1.3173975427038966,True
+All combined features,10,fake,1,1,1.1310838220194959,True
+All combined features,11,fake,1,1,1.1631895885101957,True
+All combined features,12,fake,1,0,-0.2581381843726909,False
+All combined features,13,fake,1,1,1.0272905980117608,True
+All combined features,14,fake,1,1,1.039646780752495,True
+All combined features,15,fake,1,1,1.2084493167001855,True
+All combined features,16,fake,1,1,1.1492822789724193,True
+All combined features,17,fake,1,1,0.43551375592610375,True
+All combined features,18,fake,1,1,0.6883257293071361,True
+All combined features,19,fake,1,1,0.584287790257374,True
+All combined features,20,fake,1,1,0.6699527949669485,True
+All combined features,21,fake,1,1,0.27310547335240387,True
+All combined features,22,fake,1,1,0.8638716414329777,True
+All combined features,23,fake,1,1,0.37182067721815987,True
+All combined features,24,fake,1,1,0.843313113469598,True
+All combined features,25,fake,1,1,1.3157578640132201,True
+All combined features,26,fake,1,1,1.2048855479109186,True
+All combined features,27,fake,1,1,0.8782979067695884,True
+All combined features,28,fake,1,1,1.1502281012500042,True
+All combined features,29,fake,1,1,0.4783181573162656,True
+All combined features,30,fake,1,1,0.876108637759681,True
+All combined features,31,fake,1,0,-0.4041332810130526,False
+All combined features,32,fake,1,0,-0.16725376558045318,False
+All combined features,33,fake,1,0,-0.3022533042553688,False
+All combined features,34,fake,1,0,-0.5782051858852685,False
+All combined features,35,fake,1,1,0.4050308310259717,True
+All combined features,36,fake,1,0,-0.15203887855689727,False
+All combined features,37,fake,1,1,1.2868570381341216,True
+All combined features,38,fake,1,1,0.08379011999941555,True
+All combined features,39,fake,1,1,0.1503624521536745,True
+All combined features,40,fake,1,1,0.6189477263086709,True
+All combined features,41,fake,1,1,0.6604073546161413,True
+All combined features,42,fake,1,1,0.6212864546555873,True
+All combined features,43,fake,1,0,-0.43413724734442133,False
+All combined features,44,fake,1,1,1.2420624817966834,True
+All combined features,45,fake,1,1,0.8788707951211294,True
+All combined features,46,fake,1,0,-0.5554940687081932,False
+All combined features,47,fake,1,1,0.0898147802289605,True
+All combined features,48,fake,1,1,1.1326159744132283,True
+All combined features,0,real,0,1,0.12865522557257214,False
+All combined features,1,real,0,0,-0.9939822628702166,True
+All combined features,2,real,0,0,-1.4127063222936196,True
+All combined features,3,real,0,0,-0.7869461450807032,True
+All combined features,4,real,0,0,-0.3056309777310556,True
+All combined features,5,real,0,0,-0.5037957398008696,True
+All combined features,6,real,0,0,-0.8285327565079849,True
+All combined features,7,real,0,0,-0.39935451990033843,True
+All combined features,8,real,0,1,0.362422945198276,False
+All combined features,9,real,0,1,1.0247022612184038,False
+All combined features,10,real,0,1,0.7599674329720799,False
+All combined features,11,real,0,0,-1.393526737951888,True
+All combined features,12,real,0,0,-0.9819558823732267,True
+All combined features,13,real,0,0,-0.0038246477154644243,True
+All combined features,14,real,0,1,0.6894891468641471,False
+All combined features,15,real,0,1,0.4594286433779634,False
+All combined features,16,real,0,1,0.242368012266708,False
+All combined features,17,real,0,0,-0.41519919791740695,True
+All combined features,18,real,0,0,-0.31859805303931354,True
+All combined features,19,real,0,1,0.6278516486336425,False
+All combined features,20,real,0,1,0.6997368414023662,False
+All combined features,21,real,0,0,-0.5377611177442929,True
+All combined features,22,real,0,0,-1.3702819122184253,True
+All combined features,23,real,0,0,-1.1479326436090842,True
+All combined features,24,real,0,0,-0.9652002154561145,True
+All combined features,25,real,0,0,-0.09307955398935319,True
+All combined features,26,real,0,0,-0.32138212392186494,True
+All combined features,27,real,0,0,-0.8927520818988375,True
+All combined features,28,real,0,1,0.3810664971550927,False
+All combined features,29,real,0,0,-0.46043961793812616,True
+All combined features,30,real,0,1,0.6076816285091258,False
+All combined features,31,real,0,0,-0.7147779788322735,True
+All combined features,32,real,0,0,-0.7494884167074148,True
+All combined features,33,real,0,0,-0.5498342139959236,True
+All combined features,34,real,0,1,0.4533769858756964,False
+All combined features,35,real,0,0,-0.4629073960801428,True
+All combined features,36,real,0,0,-0.6342134381852503,True
+All combined features,37,real,0,1,1.1119700477832182,False
+All combined features,38,real,0,0,-0.714807677712206,True
+All combined features,39,real,0,0,-0.9217781557872387,True
+All combined features,40,real,0,0,-0.9656844098091208,True
+All combined features,41,real,0,0,-0.27466094843317035,True
+All combined features,42,real,0,0,-0.9533054375695781,True
+All combined features,43,real,0,0,-0.11558542800267002,True
+All combined features,44,real,0,0,-0.03230578216660779,True
+All combined features,45,real,0,0,-1.4671819022965282,True
+All combined features,46,real,0,0,-1.3095540560159302,True
+All combined features,47,real,0,0,-1.2132623222031205,True
+All combined features,48,real,0,1,0.040612527544552135,False
+Selected combined features,0,fake,1,1,0.5978668104263158,True
+Selected combined features,1,fake,1,1,1.135828403313969,True
+Selected combined features,2,fake,1,1,0.7534311347210993,True
+Selected combined features,3,fake,1,1,0.4212536307389607,True
+Selected combined features,4,fake,1,1,0.5093116859343767,True
+Selected combined features,5,fake,1,0,-0.4542450068482742,False
+Selected combined features,6,fake,1,1,0.38672429642795797,True
+Selected combined features,7,fake,1,1,0.4011687747840456,True
+Selected combined features,8,fake,1,1,0.9735538139348858,True
+Selected combined features,9,fake,1,1,0.9622430253720158,True
+Selected combined features,10,fake,1,1,0.2937644518423136,True
+Selected combined features,11,fake,1,1,1.458634154501791,True
+Selected combined features,12,fake,1,1,1.7733254406414527,True
+Selected combined features,13,fake,1,1,0.616027862553743,True
+Selected combined features,14,fake,1,1,1.0396467807524947,True
+Selected combined features,15,fake,1,1,1.4731619080535905,True
+Selected combined features,16,fake,1,1,1.094073050666021,True
+Selected combined features,17,fake,1,1,1.2575870856159355,True
+Selected combined features,18,fake,1,1,0.8617750688073398,True
+Selected combined features,19,fake,1,1,0.584287790257374,True
+Selected combined features,20,fake,1,1,0.6640292461847892,True
+Selected combined features,21,fake,1,1,0.30969318807787904,True
+Selected combined features,22,fake,1,1,0.44446269570872426,True
+Selected combined features,23,fake,1,1,0.37182067721816,True
+Selected combined features,24,fake,1,1,1.0794205911088264,True
+Selected combined features,25,fake,1,1,1.101954952926956,True
+Selected combined features,26,fake,1,1,0.7059299878743706,True
+Selected combined features,27,fake,1,1,0.12504703170551434,True
+Selected combined features,28,fake,1,1,1.1502281012500042,True
+Selected combined features,29,fake,1,1,0.49256703763356885,True
+Selected combined features,30,fake,1,1,1.3137324713522796,True
+Selected combined features,31,fake,1,0,-1.0049176279970027,False
+Selected combined features,32,fake,1,0,-0.16725376558045496,False
+Selected combined features,33,fake,1,0,-0.23590819496792453,False
+Selected combined features,34,fake,1,0,-0.8212596985368569,False
+Selected combined features,35,fake,1,1,1.6673321884240984,True
+Selected combined features,36,fake,1,0,-0.698925139368749,False
+Selected combined features,37,fake,1,1,1.2868570381341229,True
+Selected combined features,38,fake,1,1,0.024454177567557522,True
+Selected combined features,39,fake,1,1,0.5889957768330436,True
+Selected combined features,40,fake,1,1,0.10133551569138194,True
+Selected combined features,41,fake,1,1,0.6604073546161402,True
+Selected combined features,42,fake,1,1,0.726471860534079,True
+Selected combined features,43,fake,1,0,-0.7177942004127689,False
+Selected combined features,44,fake,1,1,0.22327869639261383,True
+Selected combined features,45,fake,1,1,0.6976377638392044,True
+Selected combined features,46,fake,1,0,-0.5554940687081922,False
+Selected combined features,47,fake,1,0,-0.26063624538249086,False
+Selected combined features,48,fake,1,1,1.304608607202124,True
+Selected combined features,0,real,0,0,-0.4494350949043545,True
+Selected combined features,1,real,0,0,-0.9939822628702173,True
+Selected combined features,2,real,0,0,-1.2487463058313124,True
+Selected combined features,3,real,0,0,-1.4061957903036721,True
+Selected combined features,4,real,0,1,0.046048782313843045,False
+Selected combined features,5,real,0,0,-0.13290444005077268,True
+Selected combined features,6,real,0,0,-0.1377406935951121,True
+Selected combined features,7,real,0,0,-0.3993545199003402,True
+Selected combined features,8,real,0,1,0.5300049169386487,False
+Selected combined features,9,real,0,1,0.9602961477838585,False
+Selected combined features,10,real,0,1,0.33720155327651513,False
+Selected combined features,11,real,0,0,-1.1271993435921839,True
+Selected combined features,12,real,0,0,-0.7548546063960077,True
+Selected combined features,13,real,0,1,0.08084626193762467,False
+Selected combined features,14,real,0,1,0.6894891468641471,False
+Selected combined features,15,real,0,1,0.3157813567568204,False
+Selected combined features,16,real,0,1,0.606117411067308,False
+Selected combined features,17,real,0,1,0.8536456304330582,False
+Selected combined features,18,real,0,1,0.10376411679427111,False
+Selected combined features,19,real,0,1,0.6278516486336425,False
+Selected combined features,20,real,0,1,0.6622152667236594,False
+Selected combined features,21,real,0,0,-0.9177324099042025,True
+Selected combined features,22,real,0,0,-0.9832307778450904,True
+Selected combined features,23,real,0,0,-1.1479326436090842,True
+Selected combined features,24,real,0,0,-1.113820724556248,True
+Selected combined features,25,real,0,0,-0.22367530287053972,True
+Selected combined features,26,real,0,0,-0.5509188088057921,True
+Selected combined features,27,real,0,0,-0.8155627344907725,True
+Selected combined features,28,real,0,1,0.3810664971550955,False
+Selected combined features,29,real,0,0,-0.2335127783762251,True
+Selected combined features,30,real,0,1,2.4446433950004938,False
+Selected combined features,31,real,0,0,-0.48647012581519405,True
+Selected combined features,32,real,0,0,-0.749488416707415,True
+Selected combined features,33,real,0,0,-0.658081116114066,True
+Selected combined features,34,real,0,1,0.41219529385823606,False
+Selected combined features,35,real,0,1,0.6671168416803328,False
+Selected combined features,36,real,0,0,-0.4568431119595378,True
+Selected combined features,37,real,0,1,1.11197004778322,False
+Selected combined features,38,real,0,0,-0.798807421487,True
+Selected combined features,39,real,0,0,-0.7362966367939058,True
+Selected combined features,40,real,0,0,-0.8329841367317503,True
+Selected combined features,41,real,0,0,-0.27466094843317057,True
+Selected combined features,42,real,0,0,-1.0422152649657268,True
+Selected combined features,43,real,0,0,-0.5178311808949542,True
+Selected combined features,44,real,0,0,-0.7397792217829854,True
+Selected combined features,45,real,0,0,-0.5622267979415322,True
+Selected combined features,46,real,0,0,-1.3095540560159302,True
+Selected combined features,47,real,0,0,-0.7888752529322406,True
+Selected combined features,48,real,0,1,0.7902674273826924,False

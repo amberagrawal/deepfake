@@ -1,0 +1,6 @@
+fold,selected_feature,inner_balanced_accuracy,threshold,direction,test_accuracy,test_balanced_accuracy,test_pairs
+1,jitter_max,0.7307692307692308,0.01143670113919035,lower_is_fake,0.5,0.5,10
+2,jitter_p95,0.7307692307692308,0.007429932578556651,lower_is_fake,0.65,0.65,10
+3,jitter_std,0.6923076923076923,0.0019691143277257,lower_is_fake,0.65,0.65,10
+4,jitter_std,0.6282051282051282,0.0020289265322916503,lower_is_fake,0.75,0.75,10
+5,jitter_std,0.6875,0.0020289265322916503,lower_is_fake,0.7777777777777778,0.7777777777777777,9

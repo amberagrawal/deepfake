@@ -1,0 +1,21 @@
+﻿.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Downloaded raw video datasets
+dataset/
+
+# Temporary and backup files
+*.tmp
+*.bak
+*backup*

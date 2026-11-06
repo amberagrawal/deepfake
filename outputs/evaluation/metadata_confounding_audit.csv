@@ -1,0 +1,3 @@
+variable,real_median,fake_median,median_fake_minus_real,fake_higher_pairs,real_higher_pairs,equal_pairs,paired_p_value
+frame_count,34.0,34.0,0.0,1,2,46,0.4142161782425252
+sigma,0.0060900944097124,0.0060769480520705,-2.7249041017200076e-05,19,30,0,0.150372683231776
